@@ -32,7 +32,7 @@ body {
 
 .section {
   position: relative;
-  border: 5px solid black;
+  border: 3px solid black;
   background-color:  #808080;
   width: 90%;
   height: 200px;
@@ -50,9 +50,6 @@ body {
   height: 30px;
   font-size: 25%;
 }
-
-.section h2 {
-  text-align: middle 
 
 #title-one {
   background-color: #FFC0CB;
