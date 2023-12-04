@@ -18,6 +18,12 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
+.container {
+  position: relative;
+  top: 60px;
+  margin: 15px;
+}
+
 .row {
   width: 100%
 }
