@@ -41,6 +41,8 @@ body {
 
 .section-title {
   position: absolute;
+  top: 0px;
+  right: 0px;
   text-align: center;
   border: 1px solid black;
   width: 150px;
