@@ -10,6 +10,7 @@ h1 {
 }
 
 p {
+  margin-top: 20px;
   text-align: justify;
   color: black;
 }
@@ -37,3 +38,6 @@ body {
   margin: 20px;
   float: left;
   padding: 50px 10px 10px 10px;
+
+.section-title {
+  
