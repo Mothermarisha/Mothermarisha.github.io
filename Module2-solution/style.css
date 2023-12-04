@@ -19,7 +19,8 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-.container {
+div {
+  background-color: #00FFFF;
   position: relative;
   top: 60px;
   margin: 15px;
