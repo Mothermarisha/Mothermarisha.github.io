@@ -23,6 +23,7 @@ body {
   position: relative;
   top: 60px;
   margin: 15px;
+  float: left;
 }
 
 .row {
@@ -50,9 +51,8 @@ body {
   font-size: 25%;
 }
 
-h2 {
-  text align: middle-center;
-  font-size: 100%
+.section h2 {
+  text-align: middle 
 
 #title-one {
   background-color: #FFC0CB;
