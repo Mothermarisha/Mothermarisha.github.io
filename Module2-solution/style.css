@@ -12,3 +12,10 @@ h1 {
 body {
    font-family: Helvetica, Arial, san-sarifs;
 }
+
+.row {
+  width: 100%
+}
+
+.section {
+  
