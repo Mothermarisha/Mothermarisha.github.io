@@ -33,7 +33,7 @@ body {
   position: relative;
   border: 5px solid black;
   background-color:  #808080;
-  width: 50%;
+  width: 90%;
   height: 200px;
   margin: 20px;
   float: left;
@@ -49,6 +49,10 @@ body {
   height: 30px;
   font-size: 25%;
 }
+
+h2 {
+  text align: middle-center;
+  font-size: 100%
 
 #title-one {
   background-color: #FFC0CB;
