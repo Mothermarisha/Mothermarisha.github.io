@@ -40,4 +40,17 @@ body {
   padding: 50px 10px 10px 10px;
 
 .section-title {
+  position: absolute;
+  text-align: center;
+  border: 1px solid black;
+  width: 150px;
+  height: 30px;
+  font-size: 25%;
+}
+
+#title-one {
+
+#title-two {
+
+#title-three {
   
