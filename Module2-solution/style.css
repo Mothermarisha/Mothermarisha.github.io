@@ -45,7 +45,8 @@ body {
   top: 0px;
   right: 0px;
   text-align: center;
-  border: 3px solid black;
+  border-left: 3px solid black;
+  border-bottom: 3px solid black;
   width: 25%;
   height: 30px;
   font-size: 100%;
