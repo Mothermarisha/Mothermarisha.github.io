@@ -1,1 +1,13 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #ADD8E6
+  font-family: Helvetica, arial, sans-serif
+}
 
+/**Header**/
+#header-nav {
+  background-color: #CBC3E3;
+  border-radius: 0;
+  border: 0;
+}
