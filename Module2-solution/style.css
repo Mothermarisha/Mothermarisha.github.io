@@ -36,7 +36,8 @@ div.container {
   background-color: #808080;
   width: 30%;
   height: 200px;
-  margin-right: 30px;
+  margin-right: auto;
+  margin-left: auto;
   overflow: hidden;
   float: left;
   padding: 50px 10px 10px 10px;
