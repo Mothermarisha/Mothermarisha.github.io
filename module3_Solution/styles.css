@@ -17,3 +17,16 @@ body {
   height: 150px
   margin: 10px 15px 10px 0;
 }
+
+.navbar-brand {
+  padding-top: 25px;
+}
+.navbar-brand h1 {
+  color: #fff
+  font-size: 1em
+  font-weight:bold
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+   text-decoration: none; 
+}
