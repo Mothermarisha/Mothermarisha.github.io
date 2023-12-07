@@ -30,3 +30,8 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
    text-decoration: none; 
 }
+
+h1 {
+  text-align: center;
+  margin-top: 15px;
+}
