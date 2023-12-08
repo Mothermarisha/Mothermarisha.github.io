@@ -21,11 +21,10 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div.container {
+div {
   position: relative;
   top: 60px;
   margin-left: 20px;
-  float: left;
 }
 
 .row {
@@ -81,14 +80,12 @@ div.container {
   .col-md-4  .col-md-12 {
    float: left;
    width: 50%;
-   margin-left: auto;
-   margin-righ: auto;
+  
   }
   .col-md-12 {
    float: left;
    width: 100%
-   margin-left: auto;
-   margin-right: auto;
+  
   }
 } 
 
