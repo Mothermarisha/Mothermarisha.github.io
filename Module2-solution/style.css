@@ -80,6 +80,7 @@ div {
   .col-md-6 {
    float: left;
    width: 50%;
+   clear: left;
   
   }
   .col-md-12 {
