@@ -21,7 +21,7 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div {
+div.container {
   position: relative;
   top: 60px;
   margin-left: 20px;
@@ -77,7 +77,7 @@ div {
 
 /********** Medium Devices Only ********/
 @media (min-width: 768px) and (max-width: 991px) {
-  .col-md-4  .col-md-12 {
+  .col-md-4 {
    float: left;
    width: 50%;
   
@@ -94,8 +94,8 @@ div {
   .col-sm-12 {
     float: left;
     width: 100%
-  }
-  }
+   }
+}
   
 
  
