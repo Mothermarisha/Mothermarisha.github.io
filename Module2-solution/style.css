@@ -15,6 +15,7 @@ p {
   margin-top: 10px;
   text-align: justify;
   color: black;
+  clear: right;
 }
   
 body {
