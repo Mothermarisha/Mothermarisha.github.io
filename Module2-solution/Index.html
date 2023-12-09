@@ -6,6 +6,38 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Assignment Solution for Module 2</title>
     <link rel="stylesheet" href="style.css">
+  
+  <style>
+   /********** Large Devices Only **********/
+@media (min-width: 992px) { 
+ .col-lg-4 {
+   float: left;
+   width: 33.33%;
+ }
+}
+
+/********** Medium Devices Only ********/
+@media (min-width: 768px) and (max-width: 991px) {
+  .col-md-6 {
+    float: left;
+    width: 50%;
+    clear: right; 
+  }
+  .col-md-12 {
+   width: 100%
+   clear: both;
+  }
+} 
+
+ /******** Smaller Devices Only *******/
+  @media (max-width: 767px) {
+  .col-sm-12 {
+    width: 100%
+    clear: both;
+   }
+}
+  
+  </style>
  </head>
   <body>
     <div class="container">
