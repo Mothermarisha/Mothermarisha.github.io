@@ -41,7 +41,7 @@ div.container {
   margin-right: 20px;
   margin-bottom: 20px; 
   overflow: hidden;
-  float: left;
+  float: right;
   padding: 50px 10px 10px 10px;
 
 .section-title {
@@ -82,19 +82,22 @@ div.container {
   .col-md-6 {
    float: left;
    width: 50%;
-   clear: right; 
+   margin-left: auto;
+   margin-right: auto;
   }
   .col-md-12 {
-   width: 100%
-   clear: both;
-  }
+  float: left;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+ }
 } 
 
  /******** Smaller Devices Only *******/
   @media (max-width: 767px) {
   .col-sm-12 {
+    float: left;
     width: 100%
-    clear: both;
    }
 }
   
