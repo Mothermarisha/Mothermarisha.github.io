@@ -22,12 +22,14 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div.container {
+div.container.center {
   background-color: blue;
   position: relative;
   top: 60px;
   height: 500px
 }
+
+
 
 .section {
   position: relative;
