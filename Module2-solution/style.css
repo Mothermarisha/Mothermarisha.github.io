@@ -92,7 +92,7 @@ div.container {
    display: inline-block
    float: left;
    width: 100%;
-   margin-left: auto;
+   margin-left: 15px;
    margin-right: auto;
  }
 } 
