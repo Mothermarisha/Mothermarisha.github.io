@@ -41,6 +41,7 @@ div.container {
   overflow: hidden;
   float: right;
   padding: 50px 10px 10px 10px;
+}
 
 .section-title {
   position: absolute;
@@ -75,8 +76,7 @@ div.container {
 @media (min-width: 992px) { 
  .col-lg-4 {
   float: left;
-  width: 33.33%;
-   
+  width: 33.33%;  
  }
 }
 
