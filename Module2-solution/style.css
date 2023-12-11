@@ -72,20 +72,24 @@ div.container {
 /********** Large Devices Only **********/
 @media (min-width: 992px) { 
  .col-lg-4 {
+  display: inline-block
   float: left;
   width: 33.33%;
+   
  }
 }
 
 /********** Medium Devices Only ********/
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6 {
+   display: inline-block
    float: left;
    width: 50%;
    margin-left: auto;
    margin-right: auto;
   }
   .col-md-12 {
+   display: inline-block
    float: left;
    width: 100%;
    margin-left: auto;
@@ -96,6 +100,7 @@ div.container {
  /******** Smaller Devices Only *******/
   @media (max-width: 767px) {
   .col-sm-12 {
+    display: inline-block
     float: left;
     width: 100%
    
