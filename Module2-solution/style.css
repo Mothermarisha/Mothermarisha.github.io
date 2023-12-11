@@ -22,7 +22,8 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div.container {
+.grid-container {
+  display: grid;
   background-color: blue;
   position: relative;
   top: 60px;
