@@ -22,8 +22,7 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-.grid-container {
-  display: grid;
+div.container {
   background-color: blue;
   position: relative;
   top: 60px;
@@ -35,8 +34,7 @@ body {
   background-color: #808080;
   width: 90%;
   height: 200px;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: 20px;
   margin-bottom: 20px; 
   overflow: hidden;
   float: right;
@@ -100,7 +98,7 @@ body {
   .col-sm-12 {
     float: left;
     width: 100%
-    clear: both;
+   
    }
 }
   
