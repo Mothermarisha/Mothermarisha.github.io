@@ -26,6 +26,7 @@ div.container {
   background-color: blue;
   position: relative;
   top: 60px;
+  height: 300px
 }
 
 .section {
