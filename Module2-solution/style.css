@@ -39,6 +39,7 @@ div.container {
   margin-bottom: 20px; 
   overflow: hidden;
   float: right;
+  clear: right;
   padding: 50px 10px 10px 10px;
 
 .section-title {
