@@ -22,7 +22,7 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div.container {
+Section {
   background-color: blue;
   position: relative;
   top: 60px;
@@ -31,7 +31,7 @@ div.container {
 
 
 
-.section {
+ Div {
   position: relative;
   border: 3px solid black;
   background-color: #808080;
