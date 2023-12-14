@@ -89,7 +89,8 @@ div.container.center {
    margin-right: auto;
   }
   .col-md-12 {
-   clear: left;
+   Display: block;
+   clear: both;
    width: 100%;
    margin-left: auto;
    margin-right: auto;
