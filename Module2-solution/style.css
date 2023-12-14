@@ -22,7 +22,7 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div.container.center {
+div.container {
   background-color: blue;
   position: relative;
   top: 60px;
