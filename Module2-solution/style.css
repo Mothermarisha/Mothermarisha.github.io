@@ -29,16 +29,14 @@ Section {
   height: 500px
 }
 
-
-
  Div {
   position: relative;
   border: 3px solid black;
   background-color: #808080;
   width: 90%;
   height: 200px;
-  margin: 15px; 
-  overflow: hidden;
+  margin: auto;
+  overflow: auto;
   float: right;
   padding: 50px 10px 10px 10px;
 }
