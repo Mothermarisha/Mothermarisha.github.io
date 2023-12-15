@@ -20,7 +20,7 @@ body {
    font-family: Helvetica, Arial, san-sarifs;
 }
 
-div {
+section {
   position: relative;
   float: right;
   width: 100%
