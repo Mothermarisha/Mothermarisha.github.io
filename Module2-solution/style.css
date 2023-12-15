@@ -7,15 +7,13 @@
     
 h1 {
   text-align: center;
-  margin-top: 15px;
-  margin-bottom: 15px;
+  margin: 50px;
 }
 
 p {
-  margin-top: 10px;
-  text-align: justify;
-  color: black;
+  position: relative;
   clear: right;
+  
 }
   
 body {
@@ -23,22 +21,14 @@ body {
 }
 
 div {
-  background-color: blue;
   position: relative;
-  top: 60px;
-  height: 500px
-}
-
- .section {
-  position: relative;
-  border: 3px solid black;
-  background-color: #808080;
-  width: 90%;
-  height: 200px;
-  margin: 15px;
-  overflow: hidden;
   float: right;
-  padding: 50px 10px 10px 10px;
+  width: 100%
+  border: 3px solid black;
+  background-color: gray;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: auto;
 }
 
 .section-title {
@@ -64,6 +54,17 @@ div {
 #title-three {
   background-color: #964B00
 }
+
+.content {
+  color: black;
+  padding: 50px 10px;
+  overflow: auto;
+}
+
+.container {
+  position: relative;
+  padding: 15px;
+  width: 100%;
 
 .row {
   width: 100%;
