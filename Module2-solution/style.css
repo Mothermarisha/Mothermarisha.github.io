@@ -47,14 +47,17 @@ section {
 
 #title-one {
   background-color: #FFC0CB;
+  margin-top: 2px;
 }
 
 #title-two {
   background-color: #0080FF
+  margin-top: 2px;
 }
 
 #title-three {
   background-color: #964B00
+  margin-top: 2px;
 }
 
 .content {
