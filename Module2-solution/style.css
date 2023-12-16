@@ -36,11 +36,13 @@ section {
   top: 0px;
   right: 0px;
   text-align: center;
+  padding: 5px;
   border-left: 2px solid #000;
   border-bottom: 2px solid #000;
   width: 35%;
   height: 40px;
   font-size: 100%;
+  font-weight: bold;
 }
 
 #title-one {
