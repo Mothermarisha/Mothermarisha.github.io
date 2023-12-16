@@ -57,6 +57,7 @@ section {
 
 .content {
   color: black;
+  text-align: justify;
   padding: 50px 10px;
   overflow: auto;
 }
