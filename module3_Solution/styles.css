@@ -1,37 +1,5 @@
 body {
   font-size: 14px;
-  background-color: #301934
-  font-family: Helvetica, arial, sans-serif
-}
-
-/**Header**/
-#header-nav {
-  background-color: #CBC3E3;
-  border-radius: 0;
-  border: 0;
-}
-
-#logo-img {
-  background-color: #ADD8E6;
-  width: 150px;
-  height: 150px
-  margin: 10px 15px 10px 0;
-}
-
-.navbar-brand {
-  padding-top: 25px;
-}
-.navbar-brand h1 {
-  color: #fff
-  font-size: 1em
-  font-weight:bold
-}
-
-.navbar-brand a:hover, .navbar-brand a:focus {
-   text-decoration: none; 
-}
-
-h1 {
-  text-align: center;
-  margin-top: 15px;
+  background-color: #301934;
+  font-family: 'Oxygen', sans-serif;
 }
