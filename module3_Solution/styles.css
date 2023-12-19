@@ -5,8 +5,8 @@ body {
 }
 
 .navbar navbar-default {
-  background-color: #CBC3E3
-  border-radius: none;
+  background-color: #CBC3E3;
+  border-radius: 0;
   border: 0;
 }
 
