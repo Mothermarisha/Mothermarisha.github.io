@@ -4,16 +4,15 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navbar navbar-default {
-  background-color: #CBC3E3;
+.navbar {
   border-radius: 0;
   border: 0;
 }
 
-.navbar-brand {
-  padding top: 25px;
-  float: left;
+.navbar default .navbar-brand{
+   background-color: #CBC3E3;
 }
+
 
 .navbar-brand h1 {
   font-family: 'Lora', serif;
