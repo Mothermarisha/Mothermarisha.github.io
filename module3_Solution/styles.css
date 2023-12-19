@@ -9,3 +9,23 @@ body {
   border radius: 0;
   border: 0;
 }
+
+.navbar-brand {
+  padding top: 25px;
+}
+
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: #FFA500;
+  font-size: 25%;
+  text-transform: Uppercase;
+  font-weight: Bold;
+  text-shadow: 1px 1px #000000
+  margin-top: 15px
+  margin-bottom:15px
+  line-height: .75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
