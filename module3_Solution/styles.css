@@ -4,19 +4,13 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navbar {
+#navbar {
   background-color: #ADD8E6
   border-radius: 0;
-  border: 2px;
+  border: 1px;
 }
 
-
- .navbar-light .navbar-brand{
-   background-color: #CBC3E3;
-}
-
-
- .navbar-light .navbar-brand h1 {
+.navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #FFA500;
   font-size: 175%;
