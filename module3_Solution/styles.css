@@ -5,11 +5,13 @@ body {
 }
 
 .navbar {
+  background-color: #ADD8E6
   border-radius: 0;
-  border: 0;
+  border: 2px;
 }
 
-.navbar default .navbar-brand{
+
+.navbar-brand{
    background-color: #CBC3E3;
 }
 
