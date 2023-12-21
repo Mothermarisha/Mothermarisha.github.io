@@ -4,7 +4,7 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navbar .bg-light{
+.navbar .bg-body{
   background-color: #F3F7FA
   border-radius: 0;
   border: 1px;
