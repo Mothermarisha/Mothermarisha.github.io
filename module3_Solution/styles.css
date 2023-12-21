@@ -4,21 +4,18 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navbar {
-  background-color: #F3F7FA
-  border-radius: 0;
-  border: 1px;
-}
-
 .navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
+  background-color: #f6b319;
   color: #FFA500;
   font-size: 175%;
   text-transform: Uppercase;
   font-weight: Bold;
-  text-shadow: 1px 1px #000000
-  margin-top: 15px
-  margin-bottom:15px
+  text-shadow: 1px 1px #000000;
+  border-radius: 0;
+  border: 1px;
+  margin-top: 15px;
+  margin-bottom:15px;
   line-height: .75;
 }
 
