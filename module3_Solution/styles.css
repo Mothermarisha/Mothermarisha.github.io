@@ -4,6 +4,12 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
+.navbar {
+  background-color: #F3F7FA
+  border-radius: 0;
+  border: 1px;
+}
+
 .navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #FFA500;
@@ -16,11 +22,6 @@ body {
   line-height: .75;
 }
 
-.navbar {
-  background-color: #F3F7FA
-  border-radius: 0;
-  border: 1px;
-}
 
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
