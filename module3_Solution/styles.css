@@ -5,15 +5,10 @@ body {
 }
 
 .navbar .bg-light{
-  background-color: #fcfcfd;
+  background-color: #F3F7FA
   border-radius: 0;
   border: 1px;
 }
-
-.navbar-light {
-  color:#F3F7FA
-}
-
 
 .navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
