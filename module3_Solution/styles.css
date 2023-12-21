@@ -4,12 +4,6 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-.navbar .bg-body{
-  background-color: #F3F7FA
-  border-radius: 0;
-  border: 1px;
-}
-
 .navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #FFA500;
@@ -20,6 +14,12 @@ body {
   margin-top: 15px
   margin-bottom:15px
   line-height: .75;
+}
+
+.navbar {
+  background-color: #F3F7FA
+  border-radius: 0;
+  border: 1px;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
