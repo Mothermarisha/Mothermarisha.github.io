@@ -4,15 +4,6 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-nav {
-    background-color: #00800;
-    position: fixed;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 80px;
-}
-
 
 .navbar-light .navbar-brand h1 {
   font-family: 'Lora', serif;
