@@ -10,7 +10,7 @@ body {
 }
 
 P {
-  text-align: justified;
+  text-align: justify;
 }
 
 Section {
@@ -22,7 +22,7 @@ Section {
 }
 
 .Section-title {
-  text-align: centered;
+  text-align: center;
   color: black;
 }
 
