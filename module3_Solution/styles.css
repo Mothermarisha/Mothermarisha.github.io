@@ -1,11 +1,23 @@
+//**Basic Styling**//
+* {
+  
+}
+
 body {
   font-size: 14px;
   background-color: #301934;
   font-family: 'Oxygen', sans-serif;
 }
 
+h1 {
+  
+}
+ #navbar {
+   
+ }
 
-.navbar-light .navbar-brand h1 {
+
+.navbar-brand h1 {
   font-family: 'Lora', serif;
   color: #FFA500;
   font-size: 175%;
@@ -22,3 +34,9 @@ body {
   text-decoration: none;
 }
 
+//** Desktop View Only **//
+
+
+//** Tablet View Only **//
+
+//** Mobile View ONly **//
