@@ -20,14 +20,19 @@ Section {
   border: 2px solid black;
   background-color: gray;
 }
+
 Section-title {
   text-align: centered;
+  color: black;
 }
 
 h1 {
   color: #ffff;
   font-size: 175%;
+  font-family: Sans-serif;
+  font-weight: bold;
 }
+
  #navbar {
    background: grey;
    border-radius: none;
