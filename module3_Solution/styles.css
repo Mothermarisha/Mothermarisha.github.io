@@ -33,6 +33,23 @@ h1 {
   font-weight: bold;
 }
 
+.content {
+  color: black; 
+  border: 2px solid black;
+  text-align: justify;
+  padding: 50px 10px;
+  overflow: auto;
+}
+
+Div.container {
+  position: relative;
+  padding: 15px;
+  width: 100%;
+
+.row {
+  width: 90%;
+}
+
  #navbar {
    background: grey;
    border-radius: none;
