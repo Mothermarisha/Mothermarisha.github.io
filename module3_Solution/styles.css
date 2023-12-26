@@ -15,8 +15,10 @@ P {
 
 Section {
   position: relative;
-  border: 1px;
   padding: 20px 10px 10px 10px
+  width: 100%
+  border: 2px solid black;
+  background-color: gray;
 }
 Section-title {
   text-align: centered;
