@@ -9,16 +9,28 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
+P {
+  text-align: justified;
+}
+
+Section {
+  position: relative;
+  border: 1px;
+  padding: 20px 10px 10px 10px
+}
+Section-title {
+  text-align: centered;
+}
+
 h1 {
   color: #ffff;
-  font-size: 100%;
+  font-size: 175%;
 }
  #navbar {
    background: grey;
    border-radius: none;
    border: 1px;
  }
-
 
 .navbar-brand h1 {
   font-family: 'Lora', serif;
@@ -32,6 +44,8 @@ h1 {
   margin-bottom:15px;
   line-height: .75;
 }
+
+
 
 
 .navbar-brand a:hover, .navbar-brand a:focus {
