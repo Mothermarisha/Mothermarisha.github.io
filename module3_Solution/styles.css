@@ -21,7 +21,7 @@ Section {
   background-color: gray;
 }
 
-.Section-title {
+.Section-title .title-one {
   text-align: center;
   color: black;
 }
