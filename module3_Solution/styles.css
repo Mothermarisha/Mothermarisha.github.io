@@ -48,7 +48,9 @@ Div.container {
   position: relative;
   padding: 15px;
   width: 100%;
-  margin: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 .row {
   width: 100%;
