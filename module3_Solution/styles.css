@@ -1,4 +1,4 @@
-//**Basic Styling**//
+.//**Basic Styling**//
 * {
   box-sizing: border-box;
 }
@@ -9,7 +9,7 @@ body {
   font-family: 'Oxygen', sans-serif;
 }
 
-P {
+P {....
   text-align: justify;
 }
 
@@ -24,7 +24,7 @@ Section {
 }
 
 h1 {
-  color: #ffff;
+  color: black;
   font-size: 2em;
   font-family: Sans-serif;
   font-weight: bold;
