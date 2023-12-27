@@ -23,16 +23,16 @@ Section {
   margin-right: auto;
 }
 
-.Section-title #title-one {
-  text-align: center;
-  color: black;
-}
-
 h1 {
   color: #ffff;
   font-size: 175%;
   font-family: Sans-serif;
   font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+  color: black;
 }
 
 .content {
