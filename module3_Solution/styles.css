@@ -47,7 +47,7 @@ Div.container {
   position: relative;
   padding: 15px;
   width: 100%;
-  margin: auto;
+  margin: 20px
 
 .row {
   width: 100%;
@@ -55,7 +55,7 @@ Div.container {
 
  #navbar {
    background: grey;
-   border-radius: none;
+   border-radius: 0;
    border: 1px;
  }
 
