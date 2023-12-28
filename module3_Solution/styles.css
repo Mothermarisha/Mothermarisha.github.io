@@ -50,10 +50,10 @@ h2 {
   width: 100%;
 }
 
-#header-nav .nav navbar-default {
+#header-nav .navbar-default {
    background: light blue;
    border-radius: 0;
-   border-color: light blue;
+   border: 0;
  }
 
 
@@ -65,7 +65,7 @@ h2 {
   text-transform: Uppercase;
   font-weight: Bold;
   text-shadow: 1px 1px #000000;
-  margin-bottom:30px;
+  margin-bottom: auto;
   line-height: .75;
 }
 
