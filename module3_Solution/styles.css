@@ -53,7 +53,7 @@ Div.container {
   width: 100%;
 }
 
-.navbar-header {
+nav .navbar-default .navbar-header {
    background: grey;
    border-radius: 0;
    border: 1px;
