@@ -56,6 +56,10 @@ Div.container {
    border-color: light blue;
  }
 
+.navbar-brand {
+   padding-top: 25px;
+}
+
 .navbar-brand h1 {
   font-family: 'Lora', serif;
   float: left;
