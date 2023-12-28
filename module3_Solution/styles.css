@@ -37,8 +37,8 @@ h2 {
 }
 
 .content {
+  position: absolute;
   color: black; 
-  justify-content: center;
   text-align: justify;
   padding: 50px 10px;
   overflow: auto;
