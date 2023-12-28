@@ -1,4 +1,4 @@
-//**Basic Styling**//
+ //**Basic Styling**//
 
 * {
   box-sizing: border-box;
@@ -41,7 +41,6 @@ h2 {
   color: black; 
   text-align: justify;
   padding: 50px 10px;
-  position: absolute;
   overflow: auto;
 }
 
