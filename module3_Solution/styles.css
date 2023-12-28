@@ -50,7 +50,7 @@ Div.container {
   width: 100%;
 }
 
-#header-nav {
+#header-nav .nav navbar-default {
    background: light blue;
    border-radius: 0;
    border-color: light blue;
