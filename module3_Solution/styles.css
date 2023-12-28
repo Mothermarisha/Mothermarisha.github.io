@@ -38,10 +38,10 @@ h2 {
 }
 
 .content {
-  position: absolute;
   color: black; 
   text-align: justify;
   padding: 50px 10px;
+  position: absolute;
   overflow: auto;
 }
 
@@ -49,8 +49,6 @@ Div.container {
   position: relative;
   padding: 15px;
   width: 100%;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .row {
