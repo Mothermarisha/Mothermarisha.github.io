@@ -41,6 +41,12 @@ h2 {
   overflow: auto;
 }
 
+.content-box {
+  margin: 20px;
+  width: auto;
+  height: auto;  
+}
+
 .container {
   position: relative;
   width: 90%;
@@ -52,8 +58,8 @@ h2 {
   width: 100%;
 }
 
-#header-nav .navbar-default {
-   background: light blue;
+#header-nav .navbar {
+   background-color: rgba(0,0,0,0.8);
    border-radius: 0px;
    border: 0px;
  }
@@ -76,9 +82,27 @@ h2 {
   text-decoration: none;
 }
 
-//** Desktop View Only **//
+.navbar-toggle {
+  border: 2px solid black;
+  margin-right: 25px;
+}
 
+li {
+  box-sizing: border-box;
+  width: 100%
+}
 
-//** Tablet View Only **//
+.menu-item {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background-color: white;
+  border-bottom: 1px solid black;
+  color: black;
+  display: block;
+}
 
-//** Mobile View ONly **//
+.menu-item:hover {
+  background-color: rgba(0,0,0,0.9);
+  color: rgba(0,0,0,0.4)
+}
