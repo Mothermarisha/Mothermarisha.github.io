@@ -19,6 +19,7 @@ Section {
   width: 100%
   border: 2px solid black;
   background-color: gray;
+  justify-content: center;
   margin-left: 20px;
   margin-right: 20px;
 }
