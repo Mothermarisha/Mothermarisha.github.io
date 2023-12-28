@@ -41,9 +41,8 @@ h2 {
   overflow: auto;
 }
 
-Div.container {
+.container {
   position: relative;
-  padding: 15px;
   width: 100%;
 }
 
