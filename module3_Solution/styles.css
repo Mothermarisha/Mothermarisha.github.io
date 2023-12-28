@@ -50,10 +50,10 @@ Div.container {
   width: 100%;
 }
 
-.nav.navbar-header {
-   background: grey;
+.navbar-default {
+   background: light blue;
    border-radius: 0;
-   border: 1px;
+   border-color: light blue;
  }
 
 .navbar-brand h1 {
